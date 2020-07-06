@@ -1,0 +1,40 @@
+
+a:hover,
+.hover_menu_style1 .navbar .navbar-nav > li > a.active, .hover_menu_style1 .navbar .navbar-nav > li:hover > a,
+.icon_box_style_1 i,
+.link_container a,
+.pr_title i,
+.testi_meta span, .client_info span,
+.blog_meta li a i,
+.social_white .social_icons li a:hover, .social_white.social_icons li a:hover {
+	color: #27E278;
+}
+
+.text_default {
+	color: #27E278 !important;
+}
+
+.btn-default,
+.skill_content .progress-bar,
+.filter_tab1 li a.current, .filter_tab1 li a:hover,
+.tab-style1 .nav-item a.active,
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span,
+.post_category,
+.contact_style1 .contact_icon i,
+.scrollup:hover,
+.border_social .social_icons li a:hover, .border_social.social_icons li a:hover,
+.btn-default::before {
+	background-color: #27E278;
+}
+
+.btn-default,
+.filter_tab1 li a.current, .filter_tab1 li a:hover,
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span,
+.border_social .social_icons li a:hover, .border_social.social_icons li a:hover {
+	border-color: #27E278;
+}
+
+.spinner, .spinner-small {
+	border-top-color: #27E278;
+}
+	
